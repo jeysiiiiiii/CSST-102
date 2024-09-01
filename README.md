@@ -36,6 +36,9 @@ https://github.com/user-attachments/assets/6dedaacd-a3d2-4879-ac84-4de1623783b2
 * **Example:** Training a robot to navigate a maze by rewarding it for reaching the end.
 
 
+---
+
+
 ![machine learning](https://github.com/user-attachments/assets/af1c393e-2439-4ea7-bc0a-3e148612bb4b)
 
 
